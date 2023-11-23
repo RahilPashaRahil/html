@@ -1,0 +1,41 @@
+a:link{
+
+    color: aqua;
+}
+
+a:visited{
+
+    color: orangered;
+
+}
+
+a:hover{
+
+    color:black;
+}
+
+a:active{
+
+    color: green;
+
+}
+
+
+p:first-child{
+
+    color: yellow;
+}
+
+
+
+p:last-child{
+
+    color: powderblue;
+
+
+}
+
+p:nth-child(3){
+
+    color: gray;
+}
